@@ -38,5 +38,5 @@ public class HelloWorldControllerTests {
 		assertEquals("Hello world !".toUpperCase(), response.toUpperCase());
 		
 	}
-	
+
 }
